@@ -1,0 +1,4 @@
+irb
+require 'File path' (Ex: /home/padmavathy/Desktop/example.rb)
+best_price= Food.new('CSV Path') ('Ex : /home/padmavathy/Desktop/sample_data.csv')
+best_price.program(%w(burger tofu_log)) or best_price.program(%w(chef_salad tofu_log)) or best_price.program(%w(fancy_european_water extreme_fajita))
